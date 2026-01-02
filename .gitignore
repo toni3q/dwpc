@@ -1,8 +1,7 @@
 *.out
 *.o
 *.exe
-/dwpc
-downloads/*.html
+src/downloads/*.html
 index.html
 *.log
 __pycache__/
